@@ -13,5 +13,7 @@
 			<li>${meal}</li>
 		</c:forEach>
 	</ul>
+	Leaving From : ${reservation.cityFrom}
+	<br> Going To : ${reservation.cityTo}
 </body>
 </html>
